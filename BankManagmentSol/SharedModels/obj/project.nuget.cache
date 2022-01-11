@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mETvWQvJLocsalpkZUgxL1ZaEfHt70J0GGVIaq1pllmvtZbTJaLNLCq2oQC9WDlCYayNnbW6dk21DzNRYyKnmQ==",
+  "dgSpecHash": "69rG1bHDQUoswz09JTnUtGxir5OvmxnTbFVT03tuZjlAYgMTisUzmXD1SbtJm24ePWX3D45lWlLjWrx0TZFKNw==",
   "success": true,
-  "projectFilePath": "E:\\Bank-Management\\BankManagmentSol\\SharedModels\\SharedModels.csproj",
+  "projectFilePath": "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\SharedModels\\SharedModels.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

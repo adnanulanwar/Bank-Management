@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Bank-Management\\BankManagmentSol\\AccountMicroService\\AccountMicroService.csproj": {}
+    "D:\\WorkStation\\Naim\\FinalConversion\\Bank-Management\\BankManagmentSol\\AccountMicroService\\AccountMicroService.csproj": {}
   },
   "projects": {
-    "E:\\Bank-Management\\BankManagmentSol\\AccountMicroService\\AccountMicroService.csproj": {
+    "D:\\WorkStation\\Naim\\FinalConversion\\Bank-Management\\BankManagmentSol\\AccountMicroService\\AccountMicroService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Bank-Management\\BankManagmentSol\\AccountMicroService\\AccountMicroService.csproj",
+        "projectUniqueName": "D:\\WorkStation\\Naim\\FinalConversion\\Bank-Management\\BankManagmentSol\\AccountMicroService\\AccountMicroService.csproj",
         "projectName": "AccountMicroService",
-        "projectPath": "E:\\Bank-Management\\BankManagmentSol\\AccountMicroService\\AccountMicroService.csproj",
-        "packagesPath": "C:\\Users\\ICS-29 Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Bank-Management\\BankManagmentSol\\AccountMicroService\\obj\\",
+        "projectPath": "D:\\WorkStation\\Naim\\FinalConversion\\Bank-Management\\BankManagmentSol\\AccountMicroService\\AccountMicroService.csproj",
+        "packagesPath": "C:\\Users\\ICS-16 Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\WorkStation\\Naim\\FinalConversion\\Bank-Management\\BankManagmentSol\\AccountMicroService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ICS-29 Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ICS-16 Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -40,6 +40,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.13, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"
@@ -63,7 +67,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Bank-Management\\BankManagmentSol\\SharedModels\\SharedModels.csproj": {}
+    "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\SharedModels\\SharedModels.csproj": {}
   },
   "projects": {
-    "E:\\Bank-Management\\BankManagmentSol\\SharedModels\\SharedModels.csproj": {
+    "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\SharedModels\\SharedModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Bank-Management\\BankManagmentSol\\SharedModels\\SharedModels.csproj",
+        "projectUniqueName": "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\SharedModels\\SharedModels.csproj",
         "projectName": "SharedModels",
-        "projectPath": "E:\\Bank-Management\\BankManagmentSol\\SharedModels\\SharedModels.csproj",
-        "packagesPath": "C:\\Users\\ICS-29 Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Bank-Management\\BankManagmentSol\\SharedModels\\obj\\",
+        "projectPath": "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\SharedModels\\SharedModels.csproj",
+        "packagesPath": "C:\\Users\\ICS\\.nuget\\packages\\",
+        "outputPath": "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\SharedModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ICS-29 Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ICS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
