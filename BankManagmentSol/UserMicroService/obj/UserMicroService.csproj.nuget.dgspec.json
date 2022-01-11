@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\WorkStation\\Naim\\FinalConversion\\Bank-Management\\BankManagmentSol\\UserMicroService\\UserMicroService.csproj": {}
+    "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\UserMicroService\\UserMicroService.csproj": {}
   },
   "projects": {
-    "D:\\WorkStation\\Naim\\FinalConversion\\Bank-Management\\BankManagmentSol\\GenericLibrary\\GenericLibrary.csproj": {
+    "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\GenericLibrary\\GenericLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkStation\\Naim\\FinalConversion\\Bank-Management\\BankManagmentSol\\GenericLibrary\\GenericLibrary.csproj",
+        "projectUniqueName": "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\GenericLibrary\\GenericLibrary.csproj",
         "projectName": "GenericLibrary",
-        "projectPath": "D:\\WorkStation\\Naim\\FinalConversion\\Bank-Management\\BankManagmentSol\\GenericLibrary\\GenericLibrary.csproj",
-        "packagesPath": "C:\\Users\\ICS-16 Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkStation\\Naim\\FinalConversion\\Bank-Management\\BankManagmentSol\\GenericLibrary\\obj\\",
+        "projectPath": "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\GenericLibrary\\GenericLibrary.csproj",
+        "packagesPath": "C:\\Users\\ICS\\.nuget\\packages\\",
+        "outputPath": "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\GenericLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ICS-16 Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ICS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,21 +54,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\WorkStation\\Naim\\FinalConversion\\Bank-Management\\BankManagmentSol\\SharedModels\\SharedModels.csproj": {
+    "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\SharedModels\\SharedModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkStation\\Naim\\FinalConversion\\Bank-Management\\BankManagmentSol\\SharedModels\\SharedModels.csproj",
+        "projectUniqueName": "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\SharedModels\\SharedModels.csproj",
         "projectName": "SharedModels",
-        "projectPath": "D:\\WorkStation\\Naim\\FinalConversion\\Bank-Management\\BankManagmentSol\\SharedModels\\SharedModels.csproj",
-        "packagesPath": "C:\\Users\\ICS-16 Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkStation\\Naim\\FinalConversion\\Bank-Management\\BankManagmentSol\\SharedModels\\obj\\",
+        "projectPath": "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\SharedModels\\SharedModels.csproj",
+        "packagesPath": "C:\\Users\\ICS\\.nuget\\packages\\",
+        "outputPath": "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\SharedModels\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ICS-16 Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ICS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -108,21 +108,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\WorkStation\\Naim\\FinalConversion\\Bank-Management\\BankManagmentSol\\UserMicroService\\UserMicroService.csproj": {
+    "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\UserMicroService\\UserMicroService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\WorkStation\\Naim\\FinalConversion\\Bank-Management\\BankManagmentSol\\UserMicroService\\UserMicroService.csproj",
+        "projectUniqueName": "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\UserMicroService\\UserMicroService.csproj",
         "projectName": "UserMicroService",
-        "projectPath": "D:\\WorkStation\\Naim\\FinalConversion\\Bank-Management\\BankManagmentSol\\UserMicroService\\UserMicroService.csproj",
-        "packagesPath": "C:\\Users\\ICS-16 Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\WorkStation\\Naim\\FinalConversion\\Bank-Management\\BankManagmentSol\\UserMicroService\\obj\\",
+        "projectPath": "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\UserMicroService\\UserMicroService.csproj",
+        "packagesPath": "C:\\Users\\ICS\\.nuget\\packages\\",
+        "outputPath": "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\UserMicroService\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ICS-16 Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ICS\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -136,11 +136,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\WorkStation\\Naim\\FinalConversion\\Bank-Management\\BankManagmentSol\\GenericLibrary\\GenericLibrary.csproj": {
-                "projectPath": "D:\\WorkStation\\Naim\\FinalConversion\\Bank-Management\\BankManagmentSol\\GenericLibrary\\GenericLibrary.csproj"
+              "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\GenericLibrary\\GenericLibrary.csproj": {
+                "projectPath": "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\GenericLibrary\\GenericLibrary.csproj"
               },
-              "D:\\WorkStation\\Naim\\FinalConversion\\Bank-Management\\BankManagmentSol\\SharedModels\\SharedModels.csproj": {
-                "projectPath": "D:\\WorkStation\\Naim\\FinalConversion\\Bank-Management\\BankManagmentSol\\SharedModels\\SharedModels.csproj"
+              "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\SharedModels\\SharedModels.csproj": {
+                "projectPath": "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\SharedModels\\SharedModels.csproj"
               }
             }
           }
@@ -182,7 +182,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }

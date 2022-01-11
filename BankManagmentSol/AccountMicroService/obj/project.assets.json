@@ -5883,19 +5883,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\ICS-16 Admin\\.nuget\\packages\\": {}
+    "C:\\Users\\ICS\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\WorkStation\\Naim\\FinalConversion\\Bank-Management\\BankManagmentSol\\AccountMicroService\\AccountMicroService.csproj",
+      "projectUniqueName": "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\AccountMicroService\\AccountMicroService.csproj",
       "projectName": "AccountMicroService",
-      "projectPath": "D:\\WorkStation\\Naim\\FinalConversion\\Bank-Management\\BankManagmentSol\\AccountMicroService\\AccountMicroService.csproj",
-      "packagesPath": "C:\\Users\\ICS-16 Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\WorkStation\\Naim\\FinalConversion\\Bank-Management\\BankManagmentSol\\AccountMicroService\\obj\\",
+      "projectPath": "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\AccountMicroService\\AccountMicroService.csproj",
+      "packagesPath": "C:\\Users\\ICS\\.nuget\\packages\\",
+      "outputPath": "D:\\Rasel\\RabbitMQ\\Practice\\BankManagement\\BankManagmentSol\\AccountMicroService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\ICS-16 Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ICS\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -5948,7 +5948,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
